@@ -1,0 +1,7 @@
+/*
+ This is the custom
+ */
+module.exports.mailgun = {
+    api_key: 'key-xxxxxxxxxxxxxxxxxxxxxxxxx',
+    domain: 'mg.hauxi.is'
+};

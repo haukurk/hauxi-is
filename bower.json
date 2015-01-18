@@ -1,0 +1,16 @@
+{
+    "name": "hauxi-is",
+    "version": "0.2.0",
+    "private": true,
+    "dependencies": {
+        "jquery": "2.1.1",
+        "mustache": "0.8.2",
+        "bootstrap": "3.3.0",
+        "fontawesome": null,
+        "ionicons": null,
+        "moment": "2.8.3",
+        "classie": "1.0.1",
+        "jqBootstrapValidation": "1.3.7",
+        "jquery-easing-original": "1.3.1"
+    }
+}
