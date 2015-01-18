@@ -24,6 +24,7 @@
     "grunt-contrib-coffee": "~0.10.1",
     "grunt-bower": "~0.16.1",
     "sails-generate-auth": "^0.2.0",
+    "sails-postgresql": "~0.10.12",
     "passport-twitter": "^1.0.2",
     "passport-facebook": "^1.0.3",
     "passport-google": "^0.3.0",
