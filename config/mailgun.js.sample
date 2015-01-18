@@ -1,5 +1,5 @@
 /*
- This is the custom
+ Mailgun Settings
  */
 module.exports.mailgun = {
     api_key: 'key-xxxxxxxxxxxxxxxxxxxxxxxxx',
