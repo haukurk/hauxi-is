@@ -44,17 +44,17 @@ module.exports.connections = {
     devPostgresDB: {
         adapter: 'sails-postgresql',
         host: '127.0.0.1',
-        user: 'HAUXIISDEV',
-        password: 'l33tl33t',
-        database: 'HAUXIISDEV'
+        user: 'xxxxxxx',
+        password: 'xxxxxxx',
+        database: 'xxxxxxx'
     },
 
     prodPostgresDB: {
         adapter: 'sails-postgresql',
         host: '127.0.0.1',
-        user: 'HAUXIISPROD',
-        password: 'l33tl33t',
-        database: 'HAUXIISPROD'
+        user: 'xxxxxxx',
+        password: 'xxxxxx',
+        database: 'xxxxxx'
     }
 
 
